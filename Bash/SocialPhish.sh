@@ -1,3 +1,3 @@
-git clone https://github.com/TYehan/SocialPhish.git
-cd SocialPhish
+git clone https://github.com/pvanfas/socialphish.git
+cd socialphish
 chmod +x socialphish.sh
